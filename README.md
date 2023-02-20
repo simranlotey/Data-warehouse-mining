@@ -2,7 +2,7 @@
 <h2 align="left">Roll no: 2229018</h3>
 <h2 align="left">Course: MCA-2</h3>
 
-<h2 align="left">I have working and learning this languages and tools:</h3>
+<h2 align="left">I working and learning on these languages and tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
