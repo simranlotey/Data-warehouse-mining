@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Simranpreet Singh</h1>
-<h2 align="left">Roll no: 2229018</h3>
-<h2 align="left">Course: MCA-2</h3>
+<h2 align="left">Roll no: 2229018</h2>
+<h2 align="left">Course: MCA</h2>
+<h2 align="left">Hobby: Coding</h2>
+<h2 align="left">Interest: Web developement</h2>
 
 <h2 align="left">I working and learning on these languages and tools:</h3>
 <p align="left"> 
