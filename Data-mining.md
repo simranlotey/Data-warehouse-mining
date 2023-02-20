@@ -1,4 +1,4 @@
-<h1 align="left">100 points of data mining</h1>
+# 100 points of data mining
 
 1. Data mining is the process of extracting insights and knowledge from large and complex datasets.
 
